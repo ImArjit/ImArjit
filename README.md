@@ -1,86 +1,118 @@
-<h1 align="center">Hey, I'm Arjit Anand 👋</h1>
+<h1 align="center">Hi, I'm Arjit Anand 👋</h1>
+<h3 align="center">Frontend Developer | React.js | MERN Stack | UI Enthusiast</h3>
 
 <p align="center">
-  <b>Frontend Developer | ReactJS | MERN Stack Enthusiast</b><br/>
-  Passionate about crafting clean, responsive, and user-friendly web experiences.
+  <a href="mailto:arjitanand88@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="32" height="32"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/arjit-anand" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/></a>
+  &nbsp;
+  <a href="https://github.com/ImArjit" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32"/></a>
+  &nbsp;
+  <a href="https://arjit-anand-portfolio.vercel.app" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Portfolio" width="32" height="32"/></a>
 </p>
 
 ---
 
-### 🧩 About Me
-- 💻 Frontend developer skilled in React and modern JavaScript frameworks.  
-- 🌱 Currently exploring **Node.js & MongoDB** to become a full-stack developer.  
-- 🎯 Goal: Build high-performance, visually stunning web apps.  
-- ⚡ Fun fact: I love turning complex ideas into simple, interactive UIs.
+### 🧠 About Me
+I'm a **Frontend Developer** based in **New Delhi, India**, with **1.8+ years of hands-on experience** crafting responsive, scalable web applications using **React, JavaScript (ES6+), and modern UI libraries**.  
+I focus on **building clean, user-centric interfaces** and optimizing performance for production environments.
+
+- 🔹 Passionate about performance optimization & seamless UI/UX.  
+- 🔹 Experienced with **React Ecosystem**, RESTful APIs, and CI/CD.  
+- 🔹 Always exploring **modern web trends and tools**.  
 
 ---
 
-### 🚀 Tech Stack
+### 💼 Experience
 
-#### **Frontend**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="48" height="48"/>
+**🚀 React Developer – Acharya Ganesh, New Delhi**  
+**June 2024 – Present**  
+🔗 [Live Site](https://acharyaganesh.com)  
+- Spearheaded the frontend of a global spiritual platform using **React**, **Redux Toolkit**, **Zustand**, and **Context API**.  
+- Implemented responsive, modular architecture for scalable growth.  
+- Reduced load time by 30% using **lazy loading** and **code splitting**.  
+- Collaborated with backend teams to integrate **RESTful APIs** seamlessly.
+
+**💻 React Developer Intern – Acharya Ganesh**  
+**Jan 2024 – June 2024**  
+- Developed reusable React components and integrated APIs.  
+- Built responsive layouts using **Tailwind CSS**, **Bootstrap**, and **Chakra UI**.  
+- Worked on state management using **Redux Toolkit** and **Zustand**.
+
+---
+
+### 🧩 Featured Projects
+
+#### 🛒 E-Commerce Platform
+**React | Tailwind CSS | Firebase | Zustand | Stripe (demo)**  
+🔗 [Live Demo](https://your-ecommerce.vercel.app) | [GitHub](https://github.com/ImArjit/ecommerce-app)  
+- Modern, responsive e-commerce store with product filters, cart, and authentication.  
+- State management via **Zustand**, and secure checkout simulation using **Stripe**.  
+- Optimized performance with memoization & lazy loading.
+
+#### 🎓 IMTS Institute – EdTech Platform (Freelance)
+**React | Tailwind CSS | RESTful APIs**  
+🔗 [Live Site](https://imtsinstitute.com)  
+- Delivered production-level frontend with reusable, responsive UI components.  
+- Integrated APIs and improved page performance by 30%.  
+
+#### 📸 Instagram Clone
+**React | Firebase | Chakra UI**  
+🔗 [Live Demo](https://arjit-post-app.vercel.app) | [GitHub](https://github.com/ImArjit/Social-App)  
+- Real-time social app with login, posts, likes, follows & comments.  
+- Implemented **Firebase Firestore** for real-time database updates.
+
+#### ▶️ YouTube Clone
+**React | Tailwind CSS | YouTube API**  
+🔗 [Live Demo](https://arjit-streaming.vercel.app) | [GitHub](https://github.com/ImArjit/streaming)  
+- Built a responsive video platform with search, dark mode, and voice input.  
+- Enhanced data fetch speed by 50% with optimized API handling.
+
+---
+
+### 🧰 Tech Stack
+
+#### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
 </p>
 
-#### **Backend**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="48" height="48"/>
+#### Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
 </p>
 
-#### **Database**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48"/>
+#### Database
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
 </p>
 
-#### **Tools & Platforms**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="48" height="48"/>
+#### Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="40" alt="npm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
 </p>
 
 ---
 
-### 💼 Projects Showcase
-
-#### [E-Commerce Store](https://github.com/ImArjit/ecommerce)
-A fully responsive MERN-based e-commerce platform with authentication, product filtering, and cart management.  
-Includes payment integration, protected routes, and optimized UI for fast shopping experiences.
-
-#### [Instagram Clone](https://github.com/ImArjit/Social-App)
-Full-stack clone featuring real-time login, posts, likes, comments, follows, and profile pages using Firebase and Chakra UI.
-
-#### [Netflix Clone](https://github.com/ImArjit/netflix-clone)
-Built with React, Firebase Authentication, TMDB API, and Stripe integration for a seamless streaming experience.
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:arjitanand88@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="48" height="48"/>
-  </a>
-  <a href="https://www.linkedin.com/in/arjit-anand" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" height="48"/>
-  </a>
-  <a href="https://github.com/ImArjit" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
-  </a>
-  <a href="https://arjit-anand-portfolio.vercel.app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Portfolio" width="48" height="48"/>
-  </a>
+### 📫 Contact
+<p>
+  <a href="mailto:arjitanand88@gmail.com"><strong>Email:</strong> arjitanand88@gmail.com</a><br>
+  <a href="https://linkedin.com/in/arjit-anand"><strong>LinkedIn:</strong> linkedin.com/in/arjit-anand</a><br>
+  <a href="https://github.com/ImArjit"><strong>GitHub:</strong> github.com/ImArjit</a><br>
+  <a href="https://arjit-anand-portfolio.vercel.app"><strong>Portfolio:</strong> arjit-anand-portfolio.vercel.app</a>
 </p>
 
 ---
 
-<h3 align="center">✨ Crafting interactive web experiences with passion and precision ✨</h3>
+<h4 align="center">⚡ "Clean Code. Modern Design. Seamless Experience." ⚡</h4>

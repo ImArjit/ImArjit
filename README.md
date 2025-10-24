@@ -42,7 +42,6 @@ I focus on **building clean, user-centric interfaces** and optimizing performanc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://cdn.simpleicons.org/next.js/ffffff" width="40" height="40" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
-  <span style="display:inline-block; padding:0 12px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#FF4154; border-radius:8px; margin:0 5px;">React Query</span>
 </p>
 
 #### Backend
@@ -54,11 +53,9 @@ I focus on **building clean, user-centric interfaces** and optimizing performanc
 
 #### Styling
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
-  <span style="display:inline-block; padding:0 12px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#6e40c9; border-radius:8px; margin:0 5px;">Shadcn</span>
+  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="40" height="40" alt="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" width="40" height="40" alt="Chakra UI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" style="background-color:#7952B3; border-radius:5px; padding:5px"/>
-  <span style="display:inline-block; padding:0 12px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#264de4; border-radius:8px; margin:0 5px;">CSS Modules</span>
 </p>
 
 #### Animation
@@ -73,18 +70,11 @@ I focus on **building clean, user-centric interfaces** and optimizing performanc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="40" alt="npm"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/vercel.png" width="40" height="40" alt="Vercel"/>
-  <span style="display:inline-block; padding:0 12px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#FF6C37; border-radius:8px; margin:0 5px;">Postman</span>
-  <span style="display:inline-block; padding:0 12px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#4a4a4a; border-radius:8px; margin:0 5px;">Thunder Client</span>
-  <span style="display:inline-block; padding:0 12px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#4285F4; border-radius:8px; margin:0 5px;">Chrome DevTools</span>
 </p>
 
 #### UI/UX
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  <span style="display:inline-block; padding:0 12px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#00bcd4; border-radius:8px; margin:0 5px;">Responsive</span>
-  <span style="display:inline-block; padding:0 12px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#ff6f00; border-radius:8px; margin:0 5px;">Flexbox</span>
-  <span style="display:inline-block; padding:0 12px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#4caf50; border-radius:8px; margin:0 5px;">Grid</span>
-  <span style="display:inline-block; padding:0 12px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#9c27b0; border-radius:8px; margin:0 5px;">Media Queries</span>
 </p>
 
 ---

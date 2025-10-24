@@ -93,7 +93,7 @@ I focus on **building clean, user-centric interfaces** and optimizing performanc
 #### Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" height="40" alt="Express" style="filter: invert(1);"/>
+  <img src="https://cdn.simpleicons.org/express/ffffff" width="60" height="40" alt="Express"/>
 </p>
 
 #### Database

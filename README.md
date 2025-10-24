@@ -53,7 +53,7 @@ I focus on **building clean, user-centric interfaces** and optimizing performanc
 
 #### 🛒 E-Commerce Platform  
 **React | Tailwind CSS | Firebase | Zustand | Stripe (demo)**  
-🔗 [Live Demo](https://your-ecommerce.vercel.app) | [GitHub](https://github.com/ImArjit/ecommerce-app)  
+🔗 [Live Demo](https://e-commerce-frontend-seven-xi.vercel.app) | [GitHub](https://github.com/ImArjit/ecommerce-app)  
 - Modern, responsive e-commerce store with product filters, cart, and authentication.  
 - State management via **Zustand**, and secure checkout simulation using **Stripe**.  
 - Optimized performance with memoization & lazy loading.  
@@ -93,7 +93,7 @@ I focus on **building clean, user-centric interfaces** and optimizing performanc
 #### Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/express.png" width="40" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" height="40" alt="Express" style="filter: invert(1);"/>
 </p>
 
 #### Database

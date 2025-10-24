@@ -88,6 +88,7 @@ I focus on **building clean, user-centric interfaces** and optimizing performanc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
   <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.simpleicons.org/next.js/ffffff" width="60" height="40" alt="Next.js"/>
 </p>
 
 #### Backend

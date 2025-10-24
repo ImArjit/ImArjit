@@ -11,11 +11,11 @@
   </a>
   &nbsp;
   <a href="https://github.com/ImArjit" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="32" height="32"/>
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" width="32" height="32"/>
   </a>
   &nbsp;
   <a href="https://arjit-anand-portfolio.vercel.app" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/vercel.png" alt="Portfolio" width="32" height="32"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/vercel.png" alt="Portfolio" width="32" height="32"/>
   </a>
 </p>
 
@@ -93,7 +93,7 @@ I focus on **building clean, user-centric interfaces** and optimizing performanc
 #### Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/express.png" width="40" height="40" alt="Express"/>
 </p>
 
 #### Database
@@ -105,10 +105,10 @@ I focus on **building clean, user-centric interfaces** and optimizing performanc
 #### Tools & Platforms
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40" height="40" alt="GitHub"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="40" alt="npm"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/vercel.png" width="40" height="40" alt="Vercel"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/vercel.png" width="40" height="40" alt="Vercel"/>
 </p>
 
 ---

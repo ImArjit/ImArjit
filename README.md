@@ -21,63 +21,6 @@
 
 ---
 
-### 🧠 About Me
-I'm a **Frontend Developer** based in **New Delhi, India**, with **1.8+ years of hands-on experience** crafting responsive, scalable web applications using **React, JavaScript (ES6+), and modern UI libraries**.  
-
-I focus on **building clean, user-centric interfaces** and optimizing performance for production environments.  
-
-- 🔹 Passionate about performance optimization & seamless UI/UX.  
-- 🔹 Experienced with **React Ecosystem**, RESTful APIs, and CI/CD.  
-- 🔹 Always exploring **modern web trends and tools**.  
-
----
-
-### 💼 Experience
-**🚀 React Developer – Acharya Ganesh, New Delhi**  
-**June 2024 – Present**  
-🔗 [Live Site](https://acharyaganesh.com)  
-- Spearheaded the frontend of a global spiritual platform using **React**, **Redux Toolkit**, **Zustand**, and **Context API**.  
-- Implemented responsive, modular architecture for scalable growth.  
-- Reduced load time by 30% using **lazy loading** and **code splitting**.  
-- Collaborated with backend teams to integrate **RESTful APIs** seamlessly.  
-
-**💻 React Developer Intern – Acharya Ganesh**  
-**Jan 2024 – June 2024**  
-- Developed reusable React components and integrated APIs.  
-- Built responsive layouts using **Tailwind CSS**, **Bootstrap**, and **Chakra UI**.  
-- Worked on state management using **Redux Toolkit** and **Zustand**.  
-
----
-
-### 🧩 Featured Projects
-
-#### 🛒 E-Commerce Platform  
-**React | Tailwind CSS | Firebase | Zustand | Stripe (demo)**  
-🔗 [Live Demo](https://e-commerce-frontend-seven-xi.vercel.app) | [GitHub](https://github.com/ImArjit/ecommerce-app)  
-- Modern, responsive e-commerce store with product filters, cart, and authentication.  
-- State management via **Zustand**, and secure checkout simulation using **Stripe**.  
-- Optimized performance with memoization & lazy loading.  
-
-#### 🎓 IMTS Institute – EdTech Platform (Freelance)  
-**React | Tailwind CSS | RESTful APIs**  
-🔗 [Live Site](https://imtsinstitute.com)  
-- Delivered production-level frontend with reusable, responsive UI components.  
-- Integrated APIs and improved page performance by 30%.  
-
-#### 📸 Instagram Clone  
-**React | Firebase | Chakra UI**  
-🔗 [Live Demo](https://arjit-post-app.vercel.app) | [GitHub](https://github.com/ImArjit/Social-App)  
-- Real-time social app with login, posts, likes, follows & comments.  
-- Implemented **Firebase Firestore** for real-time database updates.  
-
-#### ▶️ YouTube Clone  
-**React | Tailwind CSS | YouTube API**  
-🔗 [Live Demo](https://arjit-streaming.vercel.app) | [GitHub](https://github.com/ImArjit/streaming)  
-- Built a responsive video platform with search, dark mode, and voice input.  
-- Enhanced data fetch speed by 50% with optimized API handling.  
-
----
-
 ### 🧰 Tech Stack
 
 #### Frontend
@@ -86,21 +29,30 @@ I focus on **building clean, user-centric interfaces** and optimizing performanc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.simpleicons.org/next.js/ffffff" width="40" height="40" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.simpleicons.org/next.js/ffffff" width="60" height="40" alt="Next.js"/>
+  <img src="https://cdn.simpleicons.org/reactquery/ffffff" width="40" height="40" alt="React Query"/>
 </p>
 
 #### Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.simpleicons.org/express/ffffff" width="60" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
 </p>
 
-#### Database
+#### Styling
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.simpleicons.org/shadcn/ffffff" width="40" height="40" alt="Shadcn UI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" width="40" height="40" alt="Chakra UI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.simpleicons.org/cssmodules/ffffff" width="40" height="40" alt="CSS Modules"/>
+</p>
+
+#### Animation
+<p>
+  <img src="https://cdn.simpleicons.org/gsap/ffffff" width="40" height="40" alt="GSAP"/>
 </p>
 
 #### Tools & Platforms
@@ -110,6 +62,18 @@ I focus on **building clean, user-centric interfaces** and optimizing performanc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="40" alt="npm"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/vercel.png" width="40" height="40" alt="Vercel"/>
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" width="40" height="40" alt="Postman"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/thunder-client.png" width="40" height="40" alt="Thunder Client"/>
+  <img src="https://img.icons8.com/color/48/000000/chrome-devtools.png" width="40" height="40" alt="Chrome DevTools"/>
+</p>
+
+#### UI/UX
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+  <img src="https://cdn.simpleicons.org/responsivedesign/ffffff" width="40" height="40" alt="Responsive Design"/>
+  <img src="https://cdn.simpleicons.org/flexbox/ffffff" width="40" height="40" alt="Flexbox"/>
+  <img src="https://cdn.simpleicons.org/cssgrid/ffffff" width="40" height="40" alt="CSS Grid"/>
+  <img src="https://cdn.simpleicons.org/mediaqueries/ffffff" width="40" height="40" alt="Media Queries"/>
 </p>
 
 ---

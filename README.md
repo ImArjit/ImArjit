@@ -21,6 +21,17 @@
 
 ---
 
+### 🧠 About Me
+I'm a **Frontend Developer** based in **New Delhi, India**, with **1.8+ years of hands-on experience** crafting responsive, scalable web applications using **React, JavaScript (ES6+), and modern UI libraries**.  
+
+I focus on **building clean, user-centric interfaces** and optimizing performance for production environments.  
+
+- 🔹 Passionate about performance optimization & seamless UI/UX.  
+- 🔹 Experienced with **React Ecosystem**, RESTful APIs, and CI/CD.  
+- 🔹 Always exploring **modern web trends and tools**.  
+
+---
+
 ### 🧰 Tech Stack
 
 #### Frontend
@@ -31,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://cdn.simpleicons.org/next.js/ffffff" width="40" height="40" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
-  <img src="https://cdn.simpleicons.org/reactquery/ffffff" width="40" height="40" alt="React Query"/>
+  <span style="display:inline-block; width:80px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#FF4154; border-radius:5px;">React Query</span>
 </p>
 
 #### Backend
@@ -44,10 +55,10 @@
 #### Styling
 <p>
   <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.simpleicons.org/shadcn/ffffff" width="40" height="40" alt="Shadcn UI"/>
+  <span style="display:inline-block; width:40px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#6e40c9; border-radius:5px;">Shadcn</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" width="40" height="40" alt="Chakra UI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.simpleicons.org/cssmodules/ffffff" width="40" height="40" alt="CSS Modules"/>
+  <span style="display:inline-block; width:40px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#264de4; border-radius:5px;">CSS Modules</span>
 </p>
 
 #### Animation
@@ -63,17 +74,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="40" alt="npm"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/vercel.png" width="40" height="40" alt="Vercel"/>
   <img src="https://img.icons8.com/color/48/000000/postman-api.png" width="40" height="40" alt="Postman"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/thunder-client.png" width="40" height="40" alt="Thunder Client"/>
+  <span style="display:inline-block; width:40px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#4a4a4a; border-radius:5px;">Thunder</span>
   <img src="https://img.icons8.com/color/48/000000/chrome-devtools.png" width="40" height="40" alt="Chrome DevTools"/>
 </p>
 
 #### UI/UX
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://cdn.simpleicons.org/responsivedesign/ffffff" width="40" height="40" alt="Responsive Design"/>
-  <img src="https://cdn.simpleicons.org/flexbox/ffffff" width="40" height="40" alt="Flexbox"/>
-  <img src="https://cdn.simpleicons.org/cssgrid/ffffff" width="40" height="40" alt="CSS Grid"/>
-  <img src="https://cdn.simpleicons.org/mediaqueries/ffffff" width="40" height="40" alt="Media Queries"/>
+  <span style="display:inline-block; width:90px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#00bcd4; border-radius:5px;">Responsive</span>
+  <span style="display:inline-block; width:60px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#ff6f00; border-radius:5px;">Flexbox</span>
+  <span style="display:inline-block; width:60px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#4caf50; border-radius:5px;">Grid</span>
+  <span style="display:inline-block; width:100px; height:40px; line-height:40px; text-align:center; color:white; font-weight:bold; background:#9c27b0; border-radius:5px;">Media Queries</span>
 </p>
 
 ---
